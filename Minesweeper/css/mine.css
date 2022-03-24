@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(219, 219, 223);
+    font-size: 15px;
+}
+table{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+
+}
+
+.counter{
+    height: 25px;
+    width: 25px;
+    background-color: black;
+    margin: auto;
+}
+.cell {
+    color: red;
+    background-color:lightgray;
+    margin: auto;
+    height: 50px;
+    width: 50px;
+font-size: 20px;
+}
+.timer{
+height: 50px;
+width: 50px;
+background-color: aquamarine;
+margin: auto;
+}
